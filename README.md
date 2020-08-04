@@ -1,2 +1,3 @@
-# deep-learning-scratch-course
+# Deep learning from scratch
+
 Scratch course for Deep Learning
